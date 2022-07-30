@@ -1,7 +1,7 @@
-# move_arm_by_speeching-website
+# move_arm_by_speaking-website
 
 
- Control robot arm by speeching
+ Control robot arm by speaking
 
 
 In this task I used javascript serial port and speech to move robot arm
